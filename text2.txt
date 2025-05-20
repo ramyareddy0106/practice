@@ -1,0 +1,6 @@
+cd C: to check for file in local disk it 
+cd git" git is the folder in which the text file is saved
+git add text.txt "text is the file name that has to be added to github"
+git push "used to push commit to repository"
+ls "used to find a list of files"
+time "which when entered shows the current time if the device is synced"
